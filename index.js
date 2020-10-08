@@ -9,7 +9,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content.toLowerCase().includes('lawrence')) {
-        message.reply(`${message.author.username}, thank you for Charlotte <3`);
+        message.reply(`thank you for Charlotte <3`);
     }
 })
 
