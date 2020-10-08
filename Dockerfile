@@ -15,4 +15,4 @@ RUN uname -a
 RUN node --version
 RUN npm --version
 
-CMD ["npm", "run", "backend:container:start"]
+CMD ["node", "index.js"]
