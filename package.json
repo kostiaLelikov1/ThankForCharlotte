@@ -1,0 +1,15 @@
+{
+  "name": "thankforcharlotte",
+  "version": "0.0.1",
+  "description": "Thank you for playing this amazing song",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kostiantyn Lelikov",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
